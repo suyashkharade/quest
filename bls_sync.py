@@ -262,8 +262,8 @@ def main():
         http_base_url='https://download.bls.gov/pub/time.series/pr/',
         s3_bucket='bls-data-assgn',
         s3_prefix='data',
-        aws_access_key='AKIAYSRBUYSI7CINTAUT',
-        aws_secret_key='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',
+        aws_access_key='',
+        aws_secret_key='',
         aws_region='ap-south-1'
     )
     success = sync_client.sync()
