@@ -65,7 +65,7 @@ python fetch_population_info.py
 ```bash
 jupyter notebook notebooks/spark_analytics.ipynb
 ```
-## Links to downloaded data
+## S3 Links to downloaded data
 1. [pr.data.0.Current](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.data.0.Current)
 2. [pr.data.1.AllData](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.data.1.AllData)
 3. [pr.duration](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.duration)
