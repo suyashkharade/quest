@@ -65,17 +65,15 @@ python fetch_population_info.py
 ```bash
 jupyter notebook notebooks/spark_analytics.ipynb
 ```
-
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.data.0.Current
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.data.1.AllData
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.duration
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.footnote
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.measure
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.period
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.seasonal
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.sector
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.series
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.txt
-
-
-https://bls-data-assgn.s3.ap-south-1.amazonaws.com/population_data/data.json
+## Links to downloaded data
+1. [pr.data.0.Current](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.data.0.Current)
+2. [pr.data.1.AllData]https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.data.1.AllData
+3. [pr.duration](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.duration)
+4. [pr.footnote](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.footnote)
+5. [pr.measure](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.measure)
+6. [pr.period](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.period)
+7. [pr.seasonal](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.seasonal)
+8. [pr.sector](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.sector)
+9. [pr.series](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.series)
+10. [pr.txt](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/data/pr.txt)
+11. [data.json](https://bls-data-assgn.s3.ap-south-1.amazonaws.com/population_data/data.json)
